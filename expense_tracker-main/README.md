@@ -17,19 +17,7 @@ Charts: I added basic visualization to show spending patterns.
 
 The biggest challenge for me was that Dart was a completely new language.
 
-With only 3 days to complete the project, it was not possible to fully learn Dart and build the project from scratch.
-
-Because of this, I had to rely on AI support to speed up the process.
-
-4. How I Handled It
-
-I used AI to generate and guide parts of the code.
-
-I focused on putting the pieces together so that the application worked as required.
-
-While I could not fully understand every piece of logic in such a short time, I tried to follow along with the flow and overall structure of the app.
-
-5. Learning Outcomes
+4. Learning Outcomes
 
 I learned the importance of breaking projects into smaller parts to make progress faster.
 
